@@ -62,8 +62,6 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-
 - Property search and filtering
 - Detailed property viewing
 - Secure checkout process
@@ -79,6 +77,9 @@
 | Property Listing View  | Grid display of available properties with filters        |
 | Listing Detailed View  | Complete property details with images and booking form   |
 | Simple Checkout View   | Streamlined payment and booking confirmation             |
+
+
+> 📝 **Note:** A user-friendly design in the booking system is essential for smooth navigation, higher conversion rates, and customer trust. It ensures users can easily search, select, and complete bookings without friction.
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
