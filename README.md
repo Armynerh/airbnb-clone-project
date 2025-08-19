@@ -12,6 +12,7 @@
     - [Design Goals](#design-goals)
     - [Primary Pages](#primary-pages)
     - [Colours, Styles,and Typography](#styling)
+  -[Planned UI Components](#ui-components)
   - [🚀 Live Demo](#live-demo)
   - [🚀 Project Roles and Responsibilities](#project-roles)
 - [💻 Getting Started](#getting-started)
@@ -61,7 +62,6 @@
 - Prioritize mobile responsiveness
 
 <!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 - Property search and filtering
 - Detailed property viewing
@@ -134,7 +134,32 @@
 **Font**: Quicksand  
 **Weight**: 500 (Medium)  
 **Size**: 16px  
-**Line Height**: 26px  
+**Line Height**: 26px 
+ 
+Identifying design properties in a mockup ensures consistency, clarity, and smooth collaboration between designers and developers. It helps translate visual ideas into functional components accurately. Clear design specs also improve user experience and reduce development time.
+<p align="right"><a href="#readme-top">👆</a></p>
+
+<!-- Planned Components -->
+
+## 🧩 Planned UI Components <a name="ui-components"></a>
+
+### 1. Navbar
+A responsive top navigation bar that includes the logo, navigation links, and a call-to-action button (e.g. "Sign In" or "Contact").
+
+### 2. Hero Section
+A prominent section at the top of the page with a bold headline, subheading, and a central search bar for finding properties.
+
+### 3. Search Bar
+An interactive input area allowing users to search or filter properties based on location, type, price, etc.
+
+### 4. Property Card
+A reusable component displaying key property info such as image, title, price, location, and a brief description. Includes a "View Details" button.
+
+### 5. Property Details Section
+A detailed view or page showing full property information—images, description, specifications, amenities, map, and contact options.
+
+### 6. Footer
+A consistent bottom section featuring branding, links, contact information, and optional media icons.
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
@@ -142,17 +167,17 @@
 
 ### 🚀 Live Demo <a name="live-demo"></a>
 
-You can find the live demo [here!](https://kenny-h.onrender.com/)
+You can find the live demo [here!]()
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
 
 <!-- Roles and responsibility-->
 
-### 👤 + 📝 Project Roles and Responsibilities <a name="project-roles"></a>
+## 👤 + 📝 Project Roles and Responsibilities <a name="project-roles"></a>
  Roles & Responsibilities
 
-## Roles & Responsibilities
+### Roles & Responsibilities
 
 | **Role**              | **Key Responsibilities**                                                                 | **Contribution to Project Success**                                                                 |
 |------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
