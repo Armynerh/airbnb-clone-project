@@ -12,7 +12,7 @@
     - [Design Goals](#design-goals)
     - [Primary Pages](#primary-pages)
     - [Colours, Styles,and Typography](#styling)
-  - [🧩 Planned UI Components](#ui-components)
+  - [🧩 UI Component Patterns](#ui-components)
   - [🚀 Live Demo](#live-demo)
   - [👤 + 📝 Project Roles and Responsibilities](#project-roles)
 - [💻 Getting Started](#getting-started)
@@ -138,7 +138,7 @@ Identifying design properties in a mockup ensures consistency, clarity, and smoo
 
 <!-- Planned Components -->
 
-## 🧩 Planned UI Components <a name="ui-components"></a>
+## 🧩 UI Component Patterns <a name="ui-components"></a>
 
 ### 1. Navbar
 A responsive top navigation bar that includes the logo, navigation links, and a call-to-action button (e.g. "Sign In" or "Contact").
