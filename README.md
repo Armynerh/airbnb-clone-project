@@ -270,9 +270,9 @@ If you like this project leave a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for helping me on my journey to become a Fullstack developer.
+I would like to thank Alx for helping me on my journey to become a pro frontend developer.
 
-Special thanks to [Yash Patel](https://www.youtube.com/@yashpatel1O1) for the idea.
+
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
