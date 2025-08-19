@@ -7,11 +7,11 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-  
   - [UI/UX Design Planning](#ui-ux-design-planning)
     - [Key Features](#key-features)
     - [Design Goals](#design-goals)
     - [Primary Pages](#primary-pages)
+    - [Colours, Styles,and Typography](#styling)
   - [🚀 Live Demo](#live-demo)
   - [🚀 Project Roles and Responsibilities](#project-roles)
 - [💻 Getting Started](#getting-started)
@@ -51,7 +51,7 @@
 <p align="right"><a href="#readme-top">👆</a></p>
 
 <!-- UI/UX Design Planning -->
-## ![alt text](image-1.png) UI/UX Design Planning<a name="ui-ux-design-planning"></a>
+## 🎨 UI/UX Design Planning<a name="ui-ux-design-planning"></a>
 
 <!-- Goals -->
 ### Design Goals <a name="design-goals"></a>
@@ -80,7 +80,61 @@
 | Simple Checkout View   | Streamlined payment and booking confirmation             |
 
 
-> 📝 **Note:** A user-friendly design in the booking system is essential for smooth navigation, higher conversion rates, and customer trust. It ensures users can easily search, select, and complete bookings without friction.
+>  A user-friendly design in the booking system is essential for smooth navigation, higher conversion rates, and customer trust. It ensures users can easily search, select, and complete bookings without friction.
+
+<!-- colours and typography -->
+
+### 🖍️ Colours, Styles,and Typography <a name="styling"></a>
+
+
+
+  Colours
+ **Primary Color**:`#34967C` 
+| **Secondary Color**: `#161117` 
+| **Secondary Color**: `#FFA800` 
+| **Shimmer**:`#EBEBEB` 
+| **White**:`#FFFFFF` 
+| **Dark Gray** :`#222222` 
+
+
+ Typography Guidelines
+
+- Hero Section
+**Font**: Source Sans Pro  
+**Weight**: 600 (SemiBold)  
+**Size**: 94px  
+**Line Height**: 99px  
+**Alignment**: Center  
+
+- Title / Location
+**Font**: Quicksand  
+**Weight**: 600 (SemiBold)  
+**Size**: 22px  
+**Line Height**: 100%  
+
+-  Property Details Header
+**Font**: Quicksand  
+**Weight**: 700 (Bold)  
+**Size**: 50px  
+**Line Height**: 100%  
+
+- Property Details Content
+**Font**: Quicksand  
+**Weight**: 500 (Medium)  
+**Size**: 23px  
+**Line Height**: 35px  
+
+- Footer Title
+**Font**: Quicksand  
+**Weight**: 600 (SemiBold)  
+**Size**: 25px  
+**Line Height**: 26px  
+
+- Footer Content
+**Font**: Quicksand  
+**Weight**: 500 (Medium)  
+**Size**: 16px  
+**Line Height**: 26px  
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
