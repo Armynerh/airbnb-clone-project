@@ -7,8 +7,11 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+  
+  - [UI/UX Design Planning](#ui-ux-design-planning)
     - [Key Features](#key-features)
-    - [Project Goals](#project-goals)
+    - [Design Goals](#design-goals)
+    - [Primary Pages](#primary-pages)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -42,6 +45,20 @@
   </ul>
 </details>
 
+
+
+<p align="right"><a href="#readme-top">👆</a></p>
+
+<!-- UI/UX Design Planning -->
+## ![alt text](image-1.png) UI/UX Design Planning<a name="ui-ux-design-planning"></a>
+
+<!-- Goals -->
+### Design Goals <a name="design-goals"></a>
+- Create intuitive booking flow
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -52,13 +69,16 @@
 - Secure checkout process
 - User authentication
 
+<!-- Pages -->
 
-<!-- Features -->
-### Project Goals <a name="project-goals"></a>
-- Create intuitive booking flow
-- Maintain visual consistency
-- Ensure fast loading times
-- Prioritize mobile responsiveness
+### Primary Pages <a name="primary-pages"></a>
+
+
+| Page                  | Description                                             |
+|------------------------|---------------------------------------------------------|
+| Property Listing View  | Grid display of available properties with filters        |
+| Listing Detailed View  | Complete property details with images and booking form   |
+| Simple Checkout View   | Streamlined payment and booking confirmation             |
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
@@ -69,6 +89,7 @@
 You can find the live demo [here!](https://kenny-h.onrender.com/)
 
 <p align="right"><a href="#readme-top">👆</a></p>
+
 
 <!-- Getting Started -->
 
