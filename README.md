@@ -85,16 +85,14 @@
 <!-- colours and typography -->
 
 ### 🖍️ Colours, Styles,and Typography <a name="styling"></a>
-
-
-
   Colours
+
  **Primary Color**:`#34967C` 
-| **Secondary Color**: `#161117` 
-| **Secondary Color**: `#FFA800` 
-| **Shimmer**:`#EBEBEB` 
-| **White**:`#FFFFFF` 
-| **Dark Gray** :`#222222` 
+ **Secondary Color**: `#161117` 
+ **Secondary Color**: `#FFA800` 
+**Shimmer**:`#EBEBEB` 
+**White**:`#FFFFFF` 
+**Dark Gray** :`#222222` 
 
 
  Typography Guidelines
