@@ -13,6 +13,7 @@
     - [Design Goals](#design-goals)
     - [Primary Pages](#primary-pages)
   - [🚀 Live Demo](#live-demo)
+  - [🚀 Project Roles and Responsibilities](#project-roles)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -91,6 +92,27 @@ You can find the live demo [here!](https://kenny-h.onrender.com/)
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
+
+<!-- Roles and responsibility-->
+
+### 👤 + 📝 Project Roles and Responsibilities <a name="project-roles"></a>
+ Roles & Responsibilities
+
+## Roles & Responsibilities
+
+| **Role**              | **Key Responsibilities**                                                                 | **Contribution to Project Success**                                                                 |
+|------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| **Project Manager**    | Oversees timeline, coordinates team, manages resources and deliverables                 | Keeps the project on track, ensures deadlines are met, aligns team efforts with project goals     |
+| **Frontend Developers**| Implements UI components, ensures responsive design, optimizes interactivity           | Creates user-friendly, visually appealing interfaces that enhance user experience                 |
+| **Backend Developers** | Builds APIs, manages databases, implements business logic, ensures security            | Enables core functionality, ensures data is processed correctly and efficiently                  |
+| **Designers**          | Creates mockups, maintains design system, ensures UX quality                           | Translates requirements into intuitive, visually consistent designs, improving user satisfaction  |
+| **QA/Testers**         | Writes test cases, performs testing, identifies and reports bugs                        | Ensures product reliability and quality, reduces risk of failures                                  |
+| **DevOps Engineers**   | Manages CI/CD pipelines, deployment, server infrastructure, monitors performance        | Enables smooth deployment and reliable system operations                                          |
+| **Product Owner**      | Defines requirements, prioritizes features, represents stakeholders                     | Ensures the team builds the right product aligned with business goals and user needs              |
+| **Scrum Master**       | Facilitates agile ceremonies, removes blockers, promotes agile best practices          | Keeps team productive, ensures agile processes run smoothly, fosters collaboration               |
+
+
+<p align="right"><a href="#readme-top">👆</a></p>
 
 <!-- Getting Started -->
 
