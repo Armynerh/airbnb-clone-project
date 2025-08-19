@@ -83,7 +83,6 @@
 >  A user-friendly design in the booking system is essential for smooth navigation, higher conversion rates, and customer trust. It ensures users can easily search, select, and complete bookings without friction.
 
 <!-- colours and typography -->
-
 ### 🖍️ Colours, Styles,and Typography <a name="styling"></a>
   Colours
 
